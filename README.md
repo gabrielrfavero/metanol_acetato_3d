@@ -90,7 +90,7 @@ Configure:
 - Branch: main
 - Folder: /(root)
 
-O GitHub publicará seu site em: https://<seu-usuario>.github.io/<nome-do-repo>/
+O GitHub publicará seu site em: ```https://<seu-usuario>.github.io/<nome-do-repo>/```
 
 Se index.html estiver na raiz, o gráfico abrirá automaticamente.
 
